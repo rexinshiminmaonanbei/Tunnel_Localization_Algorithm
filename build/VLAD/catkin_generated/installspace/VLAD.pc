@@ -1,0 +1,8 @@
+prefix=/home/rxsmmnb/workspace/Tunnel-SLAM_ws/install
+
+Name: VLAD
+Description: Description of VLAD
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
